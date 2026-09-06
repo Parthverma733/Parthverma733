@@ -143,14 +143,6 @@ Interested in:
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parthverma733&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -160,6 +152,12 @@ Interested in:
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/banner.png" width="800"/>
 </p>
 
 ---
