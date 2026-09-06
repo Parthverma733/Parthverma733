@@ -158,7 +158,7 @@ Interested in:
 
 
 <p align="center">
-  <img src="./assests/image.png" width="800"/>
+  <img src="./assests/image1.png" width="800"/>
 </p>
 
 ---
@@ -166,4 +166,4 @@ Interested in:
 
 ### 💡 "Build systems, not just demos."
 
-⭐ If you find something useful here, consider giving the repository a star.
+⭐ If you find something useful here, consider giving the repository a star..
