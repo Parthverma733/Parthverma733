@@ -158,7 +158,7 @@ Interested in:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parthverma733/Parthverma733/main/assets/image.jpg" width="800"/>
+  <img src="./assests/image.jpg" width="800"/>
 </p>
 
 ---
