@@ -157,7 +157,7 @@ Interested in:
 ---
 
 <p align="center">
-  <img src="./assets/image.png" width="800"/>
+  <img src="./assets/image.jpg" width="800"/>
 </p>
 
 ---
