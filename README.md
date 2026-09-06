@@ -158,7 +158,7 @@ Interested in:
 
 
 <p align="center">
-  <img src="./assests/image1.png" width="500" height="500"/>
+  <img src="./assests/image1.png" width="200" height="450"/>
 </p>
 
 ---
